@@ -1,0 +1,87 @@
+2020-10-12 23:00:49 INFO  App:11 - info level - System start
+2020-10-12 23:08:04 INFO  App:11 - info level - System start
+2020-10-12 23:14:48 INFO  App:11 - info level - System start
+2020-10-12 23:41:30 INFO  App:11 - info level - System start
+2020-10-12 23:41:59 INFO  App:11 - info level - System start
+2020-10-13 00:09:27 INFO  App:11 - info level - System start
+2020-10-13 10:05:31 INFO  App:11 - info level - System start
+2020-10-13 10:07:38 INFO  App:11 - info level - System start
+2020-10-13 10:44:15 INFO  App:11 - info level - System start
+2020-10-13 11:01:46 INFO  App:11 - info level - System start
+2020-10-13 11:07:17 INFO  App:11 - info level - System start
+2020-10-13 11:11:51 INFO  App:11 - info level - System start
+2020-10-13 11:12:11 INFO  App:11 - info level - System start
+2020-10-13 11:15:45 INFO  App:11 - info level - System start
+2020-10-13 12:04:35 INFO  App:11 - info level - System start
+2020-10-13 12:39:19 INFO  App:11 - info level - System start
+2020-10-13 12:47:47 INFO  App:11 - info level - System start
+2020-10-13 13:16:27 INFO  App:11 - info level - System start
+2020-10-13 13:25:38 INFO  App:11 - info level - System start
+2020-10-13 13:30:33 INFO  App:11 - info level - System start
+2020-10-13 13:36:13 INFO  App:11 - info level - System start
+2020-10-13 13:55:43 INFO  App:11 - info level - System start
+2020-10-13 14:14:19 INFO  App:11 - info level - System start
+2020-10-13 14:14:31 INFO  App:11 - info level - System start
+2020-10-13 18:18:11 INFO  App:11 - info level - System start
+2020-10-13 18:23:39 INFO  App:11 - info level - System start
+2020-10-13 20:24:03 INFO  App:11 - info level - System start
+2020-10-13 20:41:05 INFO  App:11 - info level - System start
+2020-10-13 20:43:15 INFO  App:11 - info level - System start
+2020-10-13 20:47:01 INFO  App:11 - info level - System start
+2020-10-13 21:13:02 INFO  App:11 - info level - System start
+2020-10-13 21:35:48 INFO  App:11 - info level - System start
+2020-10-13 22:18:10 INFO  App:11 - info level - System start
+2020-10-13 22:20:45 INFO  App:11 - info level - System start
+2020-10-13 22:33:05 INFO  App:11 - info level - System start
+2020-10-13 22:41:06 INFO  App:11 - info level - System start
+2020-10-13 22:59:05 INFO  App:11 - info level - System start
+2020-10-13 23:26:07 INFO  App:11 - info level - System start
+2020-10-13 23:40:27 INFO  App:11 - info level - System start
+2020-10-13 23:42:04 INFO  App:11 - info level - System start
+2020-10-13 23:42:17 INFO  App:11 - info level - System start
+2020-10-13 23:46:12 INFO  App:11 - info level - System start
+2020-10-13 23:47:41 INFO  App:11 - info level - System start
+2020-10-13 23:53:30 INFO  App:11 - info level - System start
+2020-10-13 23:56:52 INFO  App:11 - info level - System start
+2020-10-14 00:06:31 INFO  App:11 - info level - System start
+2020-10-14 00:11:09 INFO  App:11 - info level - System start
+2020-10-14 01:09:04 INFO  App:11 - info level - System start
+2020-10-14 01:09:15 INFO  App:11 - info level - System start
+2020-10-14 01:13:30 INFO  App:11 - info level - System start
+2020-10-14 01:13:54 INFO  App:11 - info level - System start
+2020-10-14 01:25:01 INFO  App:11 - info level - System start
+2020-10-14 01:31:16 INFO  App:11 - info level - System start
+2020-10-14 01:42:22 INFO  App:11 - info level - System start
+2020-10-14 02:04:41 INFO  App:11 - info level - System start
+2020-10-14 02:48:08 INFO  App:11 - info level - System start
+2020-10-14 02:49:38 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:49:39 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:52:42 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:52:43 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:54:07 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:54:08 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:57:00 INFO  App:11 - info level - System start
+2020-10-14 02:57:27 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:57:28 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:58:12 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+2020-10-14 02:58:12 ERROR accountDao:72 - Error while using the getAll() method. Message: ERROR: function public.get_all_accounts() does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
